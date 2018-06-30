@@ -1,2 +1,2 @@
-# Political-Sentiment-Classification-of-Text
-Neural network techniques for weak supervision
+# 266_final_project_nl
+Repo for w266 final project - political lean classification
